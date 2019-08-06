@@ -13,7 +13,11 @@ console.log(db.matches)
 
 // const myModule = require('./../public');
 // let val = myModule.hello();   
-// console.log(val);
+// console.log(val)
+
+// var newdb = require("./../public");
+
+// var value = newdb.num;
 
 // Routes
 // =============================================================

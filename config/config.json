@@ -7,6 +7,10 @@
     "port": 8889,
     "dialect": "mysql"
   },
+    
+  "scripts": {
+    "start": "node server.js"
+  },
   "test": {
     "username": "root",
     "password": "root",
