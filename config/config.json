@@ -8,9 +8,7 @@
     "dialect": "mysql"
   },
     
-  "scripts": {
-    "start": "node server.js"
-  },
+  
   "test": {
     "username": "root",
     "password": "root",
